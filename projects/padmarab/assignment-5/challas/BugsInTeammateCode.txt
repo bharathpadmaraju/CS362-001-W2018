@@ -1,0 +1,5 @@
+The two bugs I found were both in appt.java:
+
+1) Within the isValid() function the start month date was changed from 1 to 5.
+2) Within the getTitle() function the function returns the description member variable as opposed to the title. 
+
